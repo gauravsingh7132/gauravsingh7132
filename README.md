@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gaurav Pratap Singh👋
 
-<!--
-**gauravsingh7132/gauravsingh7132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a MBA with a focus on Analytics.
 
-Here are some ideas to get you started:
+## 📊 Areas I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics
+- Excel
+- Data Visualization
+- SQL
+- Power BI
+- Statistics
+
+## 🎯 Career Goal
+
+Aspiring Data Analyst / Business Analyst, focused on building practical
+analytics skills and solving business problems using data.
+
+## 🚀 Currently Working On
+
+- Excel & Statistics
+- Data Visualization
+- SQL
+- Analytics Projects
+- Internship Preparation
